@@ -9,8 +9,8 @@ headers = {
 }
 logindata={
 "action" :"login",
-"username":"grant9221",  #填你的用户名，不要填ID
-"password":"5435068c5255f9c8561b10459454a1ac",   #K071rUivtwUI&T00ls密码的MD5值
+"username":"123",  #填你的用户名，不要填ID
+"password":"2323123",   #K071rUivtwUI&T00ls密码的MD5值
 "questionid":1, #问题编号，对照下面注释填写，若没有设置提问则此处随便填写
 "answer":""  #输入回答，若没有设置提问则此处随便填写，或不填
 }
